@@ -16,7 +16,7 @@ Version requirements:
 
 ### Configuration changes
 
-* `akka.mananagement.cluster.http.healthcheck.ready-states` moved to `akka.mananagement.cluster.health-check.ready-states`
+* `akka.management.cluster.http.healthcheck.ready-states` moved to `akka.management.cluster.health-check.ready-states`
 * `akka.management.cluster.bootstrap.form-new-cluster` renamed to `akka.management.cluster.bootstrap.new-cluster-enabled`
 
 #### route-providers
